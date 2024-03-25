@@ -1,4 +1,4 @@
 # start-one
 This is my first Git Repository.
 <br>
-Author - Chandan Singh
+Author - Chandan Singh (om)
